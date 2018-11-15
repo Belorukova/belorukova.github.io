@@ -25,6 +25,7 @@
 5. [Практическое задание(счётчик)](https://kodaktor.ru/2c4cefb_e2a92)
 6. [Практическое задание(строки и массивы)](https://kodaktor.ru/2c4cefb_da429)
 7. [Практическое задание(коллбэки)](https://kodaktor.ru/bb6b8c4)
+8. [Практическое задание(DOM)](https://kodaktor.ru/?!=rates_dcbbb)
 
 
 
