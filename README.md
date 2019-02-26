@@ -5,6 +5,7 @@
 
 
 # Задания по программированию 
+## 3 семестр
 
 1. [Самостоятельная работа №1 (репозитории)](https://github.com/Belorukova/Zadanie/tree/master)
 2. [Лабораторная работа №2](https://repl.it/@LizaBielorukova/LemonchiffonCrimsonParentheses)
@@ -13,6 +14,8 @@
 5. [Лабораторная работа 18 октября 2018](https://repl.it/@LizaBielorukova/Laboratornaiafunktsii)
 6. [Практическое задание по факториалу](https://repl.it/@LizaBielorukova/factorial270918-1)
 7. [Практическое задание(seen)](https://repl.it/@LizaBielorukova/BriskInsubstantialCodes)
+
+# 4 семестр
 
 # Задания по веб-проектированию
 
