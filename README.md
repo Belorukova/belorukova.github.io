@@ -42,6 +42,7 @@
 3. [Самостоятельная работа №3](https://kodaktor.ru/?!=5_740c5)
 4. [Самостоятельная работа №4](https://kodaktor.ru/?!=custom_4f6ed)
 5. [Самостоятельная работа №5](https://kodaktor.ru/?!=canvas_806ef)
+6. [Самостоятельная работа №6](https://kodaktor.ru/?!=1ac9213)
 
 
 
