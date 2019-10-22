@@ -16,7 +16,7 @@
 7. [Практическое задание(seen)](https://repl.it/@LizaBielorukova/BriskInsubstantialCodes)
 8. [Практика(Арифметическая прогрессия)](https://repl.it/@LizaBielorukova/Arifmietichieskaia-proghriessiia)
 9. [Практика(Формула Герона)](https://repl.it/@LizaBielorukova/Formula-Gierona)
-10. [Пракика(Арифметические операции для операндов)](https://repl.it/@LizaBielorukova/Arifmietichieskiie-opieratsii-dlia-opierandov)
+10. [Практика(Арифметические операции для операндов)](https://repl.it/@LizaBielorukova/Arifmietichieskiie-opieratsii-dlia-opierandov)
 
 # 4 семестр
 
