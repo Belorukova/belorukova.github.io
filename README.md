@@ -17,7 +17,7 @@
 8. [Практика(Арифметическая прогрессия)](https://repl.it/@LizaBielorukova/Arifmietichieskaia-proghriessiia)
 9. [Практика(Формула Герона)](https://repl.it/@LizaBielorukova/Formula-Gierona)
 10. [Практика(Арифметические операции для операндов)](https://repl.it/@LizaBielorukova/Arifmietichieskiie-opieratsii-dlia-opierandov)
-11. [Практика(ЭОР "Развертывание и и настройка Python"](https://docs.google.com/document/d/1QgDolcDPm28adaD739LfZpVBqjdrJ5MdTns2o09r6sQ/edit#)
+11. [Практика(ЭОР "Развертывание и и настройка Python")](https://docs.google.com/document/d/1QgDolcDPm28adaD739LfZpVBqjdrJ5MdTns2o09r6sQ/edit#)
 
 # 4 семестр
 
