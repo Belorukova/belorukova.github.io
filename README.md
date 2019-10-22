@@ -14,6 +14,9 @@
 5. [Лабораторная работа 18 октября 2018](https://repl.it/@LizaBielorukova/Laboratornaiafunktsii)
 6. [Практическое задание по факториалу](https://repl.it/@LizaBielorukova/factorial270918-1)
 7. [Практическое задание(seen)](https://repl.it/@LizaBielorukova/BriskInsubstantialCodes)
+8. [Практика(Арифметическая прогрессия)](https://repl.it/@LizaBielorukova/Arifmietichieskaia-proghriessiia)
+9. [Практика(Формула Герона)](https://repl.it/@LizaBielorukova/Formula-Gierona)
+10. [Пракика(Арифметические операции для операндов)](https://repl.it/@LizaBielorukova/Arifmietichieskiie-opieratsii-dlia-opierandov)
 
 # 4 семестр
 
