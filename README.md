@@ -49,5 +49,11 @@
 6. [Самостоятельная работа №6](https://kodaktor.ru/?!=1ac9213)
 7. [Самостоятельная работа №7](https://kodaktor.ru/?!=9157fc7)
 
+# Задания по информационным технологиям в изучении иностранных языков
+1. [Лабораторная работа №1](https://github.com/Belorukova/Lab_1_IT_En_lg)
+2. [Лабораторная работа №2](https://docs.google.com/document/d/1KwjPATPKmOwj7v7F-oAu00_V_zCv7MLlUrf0hZ-HzOw/edit?usp=sharing)
+3. [Лабораторная работа №3](https://kodaktor.ru/?!=task_07f74)
+4. [Лабораторная работа №4](https://docs.google.com/document/d/1MOffJXzz7fZVsy14grfDuNSoYRSaKMjFBWQgvyGzPG0/edit?usp=sharing)
+
 
 
