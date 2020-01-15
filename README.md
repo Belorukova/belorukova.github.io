@@ -68,6 +68,7 @@
 8. [Лабораторная работа №8](https://github.com/Belorukova/kiteo-employees)
 9. [Лабораторная работа №9(Анализ инструментов прототипирования интерфейсов)](https://docs.google.com/presentation/d/1iZUzq9CAiO_cfaKEnrfS8O_vhGnFOZdAAEg-QwQPNBw/edit?usp=sharing)
 10. [Лабораторная работа №10(страничка преподавателя)](https://github.com/Belorukova/-/blob/master/README.html)
+11. [Лабораторная работа №11(Диаграмма прецедентов)](https://docs.google.com/document/d/1osu_4rHs2cP7zc-jPglNLHDZJrVX0Xmok_Lb7zIcggc/edit?usp=sharing)
 
 
 
