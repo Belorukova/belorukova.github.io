@@ -67,7 +67,7 @@
 7. [Лабораторная работа №7](https://docs.google.com/presentation/d/1KzBQ41kZh-tuxfFjmXWMf3LssD7mUmb2lEO8kZmAdVY/edit?usp=sharing)
 8. [Лабораторная работа №8](https://github.com/Belorukova/kiteo-employees)
 9. [Лабораторная работа №9](https://docs.google.com/presentation/d/1iZUzq9CAiO_cfaKEnrfS8O_vhGnFOZdAAEg-QwQPNBw/edit?usp=sharing)
-
+10. [Лабораторная работа №10](https://github.com/Belorukova/-/blob/master/README.html)
 
 
 
