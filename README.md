@@ -61,7 +61,7 @@
 1. [Лабораторная работа №1(Диаграмма Ганта)](https://github.com/Belorukova/1-gantt-60218-Belorukova)
 2. [Лабораторная работа №2(Макет)](https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=11003)
 3. [Лабораторная работа №3(Техническое задание)](https://docs.google.com/document/d/16tJjEo0vr9CBsLbUw1jVHcUf-xLz13xXoBAgAlOYaig/edit)
-4. [Лабораторная работа №4
+4. [Лабораторная работа №4]
 
 
 
