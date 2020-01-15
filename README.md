@@ -62,6 +62,10 @@
 2. [Лабораторная работа №2(Макет)](https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=11003)
 3. [Лабораторная работа №3(Техническое задание)](https://docs.google.com/document/d/16tJjEo0vr9CBsLbUw1jVHcUf-xLz13xXoBAgAlOYaig/edit)
 4. [Лабораторная работа №4(сертификат)](https://docs.google.com/document/d/1lXn2BaAXSWLf2S5OdGhM8zSwpGyaAzjRRRS0JiNHqlQ/edit?usp=sharing)
+5. [Лабораторная работа №5](https://app.moqups.com/RC3s9J9x1P/edit/page/ad64222d5)
+6. [Лабораторная работа №6](https://github.com/Belorukova/scrum-glossary)
+7. [Лабораторная работа №7](https://docs.google.com/presentation/d/1KzBQ41kZh-tuxfFjmXWMf3LssD7mUmb2lEO8kZmAdVY/edit?usp=sharing)
+8. [Лабораторная работа №8](https://github.com/Belorukova/kiteo-employees)
 
 
 
