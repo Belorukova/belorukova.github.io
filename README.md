@@ -19,7 +19,7 @@
 10. [Практика(Арифметические операции для операндов)](https://repl.it/@LizaBielorukova/Arifmietichieskiie-opieratsii-dlia-opierandov)
 11. [Практика(ЭОР "Развертывание и и настройка Python")](https://docs.google.com/document/d/1QgDolcDPm28adaD739LfZpVBqjdrJ5MdTns2o09r6sQ/edit#)
 
-# 4 семестр
+## 4 семестр
 
 # Задания по веб-проектированию
 
