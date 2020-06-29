@@ -66,7 +66,7 @@
 
 ## Задания по программированию
 
-1. [Инвариантная самосттоятельная работа(2.1)](https://repl.it/@LizaBielorukova/Invariantnaia-siem-521)
+1. [Инвариантная самосттоятельная работа(2.1)](https://repl.it/@LizaBielorukova/Invariantnaia-siem-521) 
 2. [Инвариантная самостоятельная работа(2.2)](https://repl.it/@LizaBielorukova/Invariantnaia-5-siem22#main.py)
 3. [Вариативная самостоятельная работа(1.1)](https://repl.it/@LizaBielorukova/Variativnaia-5-siem11#main.py)
 4. [Лабораторная работа(AO для операндов)](https://repl.it/@LizaBielorukova/Arifmietichieskiie-opieratsii-dlia-opierandov#main.py)
