@@ -100,7 +100,14 @@
 ## Задания по программированию
 
 1. [Лабораторная работа №1](https://repl.it/@LizaBielorukova/Laboratornaia-rabota-16-siem#main.py)
-6. [Лабораторная работа №6(Фибоначчи)](https://repl.it/@LizaBielorukova/Laboratornaia-66-siem#main.py)
+2. [Лабораторная работа №2](https://repl.it/@LizaBielorukova/Laboratornaia-26-siem)
+3. [Лабораторная работа №5](https://repl.it/@LizaBielorukova/Lab56-sem#main.py)
+4. [Лабораторная работа №6(Фибоначчи)](https://repl.it/@LizaBielorukova/Laboratornaia-66-siem#main.py)
+5. [Лабораторная работа №6.1](https://repl.it/@LizaBielorukova/Laboratornaia-626-siem#main.py)
+6. [Тема №3(проект)](https://github.com/Belorukova/pyGTK)
+7. [Вариативная самостоятельная работа(тема 4)](https://repl.it/@LizaBielorukova/Laboratornaiatiema-4-siem6#main.py)
+8. [Инвариативная самостоятельная работа(тема 4)](https://github.com/python-advance/t4-env-Belorukova/blob/master/ISR.md)
+9. [ИСР 4.2](https://github.com/python-advance/t4-env-Belorukova/blob/master/ISR.md)
 
 
 
