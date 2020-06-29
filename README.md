@@ -24,11 +24,15 @@
 
 ## Задания по программированию
 
+0.1 [Тестирование](https://github.com/python-basic/sem3-t4-Belorukova/tree/master)
 1. [Самостоятельная работа(Дискриминант)](https://repl.it/@LizaBielorukova/Diskriminant#main.py)
-2. [Лабораторная работа(Время падения тела)](https://repl.it/@LizaBielorukova/progh4#main.py)
+2. [Лабораторная работа(ВПТ)](https://repl.it/@LizaBielorukova/progh4#main.py)
 3. [Инвариантная самостоятельная работа(4.1)](https://repl.it/@LizaBielorukova/Invariantnaia41#main.py)
 4. [Инвариантная самостоятельная работа(4.2)](https://repl.it/@LizaBielorukova/Invariantnaia-42#main.py)
 5. [Вариативная самостоятельная работа(4.1)](https://repl.it/@LizaBielorukova/Variativnaia41#main.py)
+6. [Лабораторная работа №2](https://repl.it/@LizaBielorukova/Siem-4-laboratornaia#main.py)
+7. [Лабораторная работа №3](https://repl.it/@LizaBielorukova/Laboratornaia-vviedieniie-v-opp)
+
 
 ## Задания по веб-проектированию
 
@@ -66,7 +70,10 @@
 2. [Инвариантная самостоятельная работа(2.2)](https://repl.it/@LizaBielorukova/Invariantnaia-5-siem22#main.py)
 3. [Вариативная самостоятельная работа(1.1)](https://repl.it/@LizaBielorukova/Variativnaia-5-siem11#main.py)
 4. [Лабораторная работа(AO для операндов)](https://repl.it/@LizaBielorukova/Arifmietichieskiie-opieratsii-dlia-opierandov#main.py)
-
+5. [Инвариантная самостоятельная работа 1](https://repl.it/@LizaBielorukova/ISR-15-siem#main.py)
+6. [Самостоятельная работа(тема 3) Графики](https://repl.it/@LizaBielorukova/SRsem-5-tem-3#main.py)
+7. [Инвариантная самостоятельная работа №4](https://repl.it/@LizaBielorukova/Siem-5tiema-4-isr)
+8. [Инвариантная самостоятельная работа №4.1](https://repl.it/@LizaBielorukova/siem-5-tiema-42)
 
 
 ## Задания по информационным технологиям в изучении иностранных языков
