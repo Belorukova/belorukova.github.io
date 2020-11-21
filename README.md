@@ -109,6 +109,14 @@
 8. [Инвариативная самостоятельная работа(тема 4)](https://github.com/python-advance/t4-env-Belorukova/blob/master/ISR.md)
 9. [ИСР 4.2](https://github.com/python-advance/t4-env-Belorukova/blob/master/ISR.md)
 
+# 7 семестр
+
+## Задания по программированию
+
+1. [Лабораторная работа №1](https://repl.it/@LizaBielorukova/sem7task1)
+2. [Лабораторная работа №2](https://repl.it/@LizaBielorukova/sem7-task2#main.py)
+3. [Лабоаторная работа №3(Lektor)]()
+
 
 
 
