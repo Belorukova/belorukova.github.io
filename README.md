@@ -114,7 +114,7 @@
 ## Задания по программированию
 
 1. [Лабораторная работа №1](https://repl.it/@LizaBielorukova/sem7task1)
-2. [Лабораторная работа №2](https://repl.it/@LizaBielorukova/sem7-task2#main.py)
+2. [Лабораторная работа №2](https://github.com/herzenuni/sem7-task1-Belorukova/blob/master/ANSWER.py)
 3. [Лабоаторная работа №3(Lektor)](https://github.com/Belorukova/lektor-test)
 
 
