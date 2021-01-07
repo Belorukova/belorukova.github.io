@@ -115,7 +115,7 @@
 
 1. [Лабораторная работа №1](https://repl.it/@LizaBielorukova/sem7task1)
 2. [Лабораторная работа №2](https://repl.it/@LizaBielorukova/sem7-task2#main.py)
-3. [Лабоаторная работа №3(Lektor)]()
+3. [Лабоаторная работа №3(Lektor)](https://github.com/Belorukova/lektor-test)
 
 
 
