@@ -116,7 +116,9 @@
 1. [Лабораторная работа №1](https://repl.it/@LizaBielorukova/sem7task1)
 2. [Лабораторная работа №2](https://github.com/herzenuni/sem7-task1-Belorukova/blob/master/ANSWER.py)
 3. [Лабоаторная работа №3(Lektor)](https://github.com/Belorukova/lektor-test)
-
+4. [Лабораторная работа №4(Flask+DB](https://github.com/Belorukova/flask--)
+5. [Лабораторная работа №5(Flask+шаблоны]()
+6. [Лабораторная работа №6(Flask+приложение]()
 
 
 
