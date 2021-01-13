@@ -118,7 +118,7 @@
 3. [Лабоаторная работа №3(Lektor)](https://github.com/Belorukova/lektor-test)
 4. [Лабораторная работа №4(Flask+DB)](https://github.com/Belorukova/flask--)
 5. [Лабораторная работа №5(Flask+шаблоны)](https://github.com/Belorukova/flask-templates)
-6. [Лабораторная работа №6(Flask+приложение)]()
+6. [Лабораторная работа №6(Flask+приложение)](https://github.com/Belorukova/flask-lab6)
 
 ### ISR
 
